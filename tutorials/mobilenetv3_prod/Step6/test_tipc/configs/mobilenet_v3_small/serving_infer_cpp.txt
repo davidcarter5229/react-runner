@@ -1,0 +1,17 @@
+===========================serving_params===========================
+model_name:mobilenet_v3_small
+python:python3.7
+trans_model:-m paddle_serving_client.convert
+--dirname:./inference/mobilenet_v3_small_infer/
+--model_filename:inference.pdmodel
+--params_filename:inference.pdiparams
+--serving_server:./deploy/serving_cpp/serving_server/
+--serving_client:./deploy/serving_cpp/serving_client/
+serving_dir:./deploy/serving_cpp
+--model:serving_server
+--op:GeneralClasOp
+--port:9997
+--gpu_id:"0"|null
+cpp_client:serving_client.py
+proto_path:deploy/serving_cpp/preprocess/serving_client_conf.prototxt
+

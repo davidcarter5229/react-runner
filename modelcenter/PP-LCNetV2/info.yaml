@@ -1,0 +1,19 @@
+---
+Model_Info:
+  name: "PP-LCNetv2"
+  description: "面向Intel CPU端的轻量级卷积神经网络"
+  description_en: "A Lightweight Convolutional Neural Network for Intel CPU"
+  icon: "https://user-images.githubusercontent.com/23690325/204210580-d529f9cc-7dbd-4622-9b78-fe5e2b3e5f4a.png"
+  from_repo: "https://github.com/paddlepaddle/paddleclas"
+Task:
+- tag_en: "Computer Vision"
+  tag: "计算机视觉"
+  sub_tag_en: "Image Classification"
+  sub_tag: "图像分类"
+Example: ""
+Datasets: "ImageNet1k"
+Publisher: "Baidu"
+License: "apache.2.0"
+Paper: ""
+IfTraining: 1
+IfOnlineDemo: 1

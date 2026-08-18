@@ -1,0 +1,25 @@
+---
+Model_Info:
+  name: "PP-ShiTu"
+  description: "PP-ShiTu识别系统"
+  description_en: "PP-ShiTu, a light-weighted recognition system"
+  icon: "https://user-images.githubusercontent.com/23690325/204210779-12ff299e-b8f4-48f3-83ba-d8f3d10cab4e.png"
+  from_repo: "PaddleClas"
+Task:
+- tag_en: "Computer Vision"
+  tag: "计算机视觉"
+  sub_tag_en: "Characteristics of Product Image"
+  sub_tag: "商品图片特征"
+Example:
+- tag_en: "Intelligent Retail"
+  tag: "智慧零售"
+  sub_tag_en: "Commodity identification"
+  title: "生鲜产品自主结算"
+  sub_tag: "商品识别"
+  url: "https://aistudio.baidu.com/aistudio/projectdetail/4003418?channelType=0&channel=0"
+Datasets: "Aliproduct, GLDv2, VeRI, LogoDet, iCartoonFace, SOP, Inshop"
+Publisher: "Baidu"
+License: "apache.2.0"
+Paper: ""
+IfTraining: 1
+IfOnlineDemo: 0

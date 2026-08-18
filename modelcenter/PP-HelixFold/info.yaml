@@ -1,0 +1,20 @@
+---
+Model_Info:
+  name: "PP-HelixFold"
+  description: "适配国产软硬件的蛋白质结构预测模型"
+  description_en: "A protein structure prediction model adapted to domestic software and hardware"
+  icon: "https://user-images.githubusercontent.com/23690325/204210442-86e39d43-ecda-4a72-b035-b912e6eb9b9e.png"
+  from_repo: "PaddleHelix"
+Task:
+- tag_en: "Scientific Computing"
+  tag: "科学计算"
+  sub_tag_en: "Protein Structure Prediction"
+  sub_tag: "蛋白质结构预测"
+Datasets: "RCSB PDB, Self-distillation datasets, CAMEO, CASP14"
+Publisher: "Baidu"
+License: "Apache 2.0"
+Paper:
+- title: "HelixFold: An Efficient Implementation of AlphaFold2 using PaddlePaddle"
+  url: "https://arxiv.org/abs/2207.05477"
+IfTraining: 1
+IfOnlineDemo: 1
