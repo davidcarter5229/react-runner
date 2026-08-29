@@ -3,3 +3,4 @@ from .vision import VisionDataset
 
 __all__ = ('ImageFolder', 'DatasetFolder', 'VisionDataset')
 # 51f64a
+# aff763
