@@ -36,3 +36,4 @@
 - PP-YOLO_MobileNetV3 模型训练过程中使用4GPU，每GPU batch size为32进行训练；PP-YOLO-tiny 模型训练过程中使用8GPU，每GPU batch size为32进行训练，如训练GPU数和batch size不使用上述配置，须参考[FAQ](https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.5/docs/tutorials/FAQ/README.md)调整学习率和迭代次数。
 - PP-YOLO_MobileNetV3 模型推理速度测试环境配置为麒麟990芯片单线程；PP-YOLO-tiny 模型推理速度测试环境配置为麒麟990芯片4线程，arm8架构。
 
+

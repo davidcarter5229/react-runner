@@ -15,3 +15,4 @@ Pretrain model from https://paddlespeech.bj.bcebos.com/s2t/wenetspeech/asr1/asr1
 | conformer | 32.52 M | conf/chunk_conformer.yaml | spec_aug  | aishell1 | ctc_greedy_search | -1 | 0.061884 |  
 | conformer | 32.52 M | conf/chunk_conformer.yaml | spec_aug  | aishell1 | ctc_prefix_beam_search | -1 | 0.062056 |  
 | conformer | 32.52 M | conf/chunk_conformer.yaml | spec_aug  | aishell1 | attention_rescoring | -1 |  0.052110 |
+

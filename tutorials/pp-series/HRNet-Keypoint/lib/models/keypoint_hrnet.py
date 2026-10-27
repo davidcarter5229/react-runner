@@ -353,3 +353,4 @@ class HRNetPostProcess(object):
                     maxvals, axis=1)
         ]]
         return outputs
+# 9b7f4c

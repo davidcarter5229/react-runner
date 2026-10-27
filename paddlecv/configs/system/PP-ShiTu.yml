@@ -79,3 +79,5 @@ MODEL:
         - feature.dt_bboxes
         - feature.rec_score
         - feature.rec_doc
+
+# 656e66

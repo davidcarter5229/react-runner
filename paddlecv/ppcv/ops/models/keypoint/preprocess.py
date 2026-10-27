@@ -200,3 +200,4 @@ class Permute(object):
         """
         im = im.transpose((2, 0, 1)).copy()
         return im, im_info
+# 6a2235

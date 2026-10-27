@@ -105,3 +105,4 @@ class BaseOp(object):
 
     def __call__(self, image_list):
         raise NotImplementedError
+# e2273e

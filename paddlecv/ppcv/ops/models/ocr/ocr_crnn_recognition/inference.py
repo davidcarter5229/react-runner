@@ -150,3 +150,4 @@ class OcrCrnnRecOp(ModelBaseOp):
                 outputs.append(d)
             pipe_outputs = outputs
         return pipe_outputs
+# 73d773

@@ -56,3 +56,4 @@ class ModelBaseOp(BaseOp):
 
     def postprocess(self, inputs):
         raise NotImplementedError
+# 8a2b16

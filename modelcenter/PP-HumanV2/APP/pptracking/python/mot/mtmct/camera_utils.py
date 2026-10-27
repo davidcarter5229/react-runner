@@ -286,3 +286,4 @@ def get_labels_with_camera(cid_tid_dict,
     labels, sub_cluster = combin_cluster(sub_labels, cid_tids)
 
     return labels
+# 0f8f5c

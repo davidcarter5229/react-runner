@@ -32,3 +32,4 @@
 |ch_ppstructure_mobile_v2.0_SLANet|基于SLANet的中文表格识别模型|9.3M|[推理模型](https://paddleocr.bj.bcebos.com/ppstructure/models/slanet/ch_ppstructure_mobile_v2.0_SLANet_infer.tar) / [训练模型](https://paddleocr.bj.bcebos.com/ppstructure/models/slanet/ch_ppstructure_mobile_v2.0_SLANet_train.tar) |
 
 <a name="3"></a>
+

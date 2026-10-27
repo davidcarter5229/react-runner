@@ -99,3 +99,4 @@ class ParserDetResults(object):
         }
         new_bbox_num = np.array(new_bbox_num).astype('int32')
         return result, new_bbox_num
+# 2a41bf

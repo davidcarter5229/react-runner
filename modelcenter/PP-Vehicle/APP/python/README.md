@@ -102,3 +102,4 @@ python deploy/python/mot_keypoint_unite_infer.py --mot_model_dir=output_inferenc
 - 如果安装的PaddlePaddle不支持基于TensorRT进行预测，需要自行编译，详细可参考[预测库编译教程](https://paddleinference.paddlepaddle.org.cn/user_guides/source_compile.html)。
 - --run_benchmark如果设置为True，则需要安装依赖`pip install pynvml psutil GPUtil`。
 - 如果需要使用导出模型在coco数据集上进行评估，请在推理时添加`--save_results`和`--use_coco_category`参数用以保存coco评估所需要的json文件
+

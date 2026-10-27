@@ -23,3 +23,4 @@ PP-LCNetV2 系列模型使用 ImageNet1k validation 数据集进行评测。
 ## 3. 相关使用说明
 
 更多信息请参考[PaddleClas-PPLCNetV2](https://github.com/PaddlePaddle/PaddleClas/blob/release/2.5/docs/zh_CN/models/ImageNet1k/PP-LCNetV2.md)。
+

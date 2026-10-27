@@ -288,3 +288,4 @@ class FaceAttribute(object):
                 output_keys[2]: pred_res.tolist()
             })
         return batch_res
+# 4b91e5

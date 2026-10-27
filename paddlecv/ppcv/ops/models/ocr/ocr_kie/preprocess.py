@@ -596,3 +596,4 @@ class ReInput(object):
         ser_inputs = ser_inputs[:5] + [entities, relations, entity_idx_dict]
 
         return ser_inputs
+# 8672e3

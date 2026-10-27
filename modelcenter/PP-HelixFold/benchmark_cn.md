@@ -20,3 +20,4 @@ PP-HelixFold模型使用的训练样本25%来自RCSB PDB，75%来自自蒸馏数
 
 ## 2. 相关使用说明
 请参考：https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
+

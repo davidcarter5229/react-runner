@@ -23,3 +23,4 @@ def build_slim_model(cfg, mode='train'):
         load_pretrain_weight(cfg['model'], cfg.weights)
 
     return cfg
+# 757d4b

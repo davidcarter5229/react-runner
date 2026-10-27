@@ -128,3 +128,4 @@ class CTCLabelDecode(BaseRecLabelDecode):
     def add_special_char(self, dict_character):
         dict_character = ['blank'] + dict_character
         return dict_character
+# 77ac98

@@ -52,3 +52,4 @@ MODEL:
         - det.dt_scores
         - det.dt_cls_names  
 ```
+

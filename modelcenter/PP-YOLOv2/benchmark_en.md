@@ -45,3 +45,4 @@ PP-YOLOv2 (R50) mAP in the COCO test dataset rises from 45.9% to 49.5%, an incre
 
 ## 3. Reference
 Ref: https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.4/configs/ppyolo/README_cn.md
+

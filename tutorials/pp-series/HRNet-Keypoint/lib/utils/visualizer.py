@@ -263,3 +263,4 @@ def draw_pose(image,
     image = Image.fromarray(canvas.astype('uint8'))
     plt.close()
     return image
+# 3dfef3

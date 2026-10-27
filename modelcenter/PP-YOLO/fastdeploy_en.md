@@ -29,3 +29,4 @@ python infer_ppyolo.py --model_dir ppyolo_r50vd_dcn_1x_coco --image 000000014439
 # TensorRT inference on GPU (note: if you run TensorRT inference the first time, there is a serialization of the model, which is time-consuming and requires patience)
 python infer_ppyolo.py --model_dir ppyolo_r50vd_dcn_1x_coco --image 000000014439.jpg --device gpu --use_trt True
 ```
+

@@ -27,3 +27,4 @@ The PP-HGNet series models were evaluated using the ImageNet1k validation datase
 ## 3. Instructions
 
 For more information please refer to[PaddleClas-PPHGNet](https://github.com/PaddlePaddle/PaddleClas/blob/release%2F2.5/docs/en/models/PP-HGNet_en.md).
+

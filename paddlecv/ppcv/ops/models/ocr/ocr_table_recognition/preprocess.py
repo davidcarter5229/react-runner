@@ -57,3 +57,4 @@ class PaddingTableImage(object):
         shape.extend([pad_h, pad_w])
         data['shape'] = np.array(shape)
         return data
+# e7fb4d

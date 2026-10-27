@@ -24,3 +24,4 @@ from .lite_hrnet import *
 
 __all__ = hrnet.__all__ + keypoint_hrnet.__all__ \
           + loss.__all__
+# 44ae79

@@ -500,3 +500,4 @@ def preprocess(im, preprocess_ops):
     for operator in preprocess_ops:
         im, im_info = operator(im, im_info)
     return im, im_info
+# 1f0d59

@@ -181,3 +181,4 @@ def get_color_map_list(num_classes, custom_color=None):
     if custom_color:
         color_map[:len(custom_color)] = custom_color
     return color_map
+# 5c0c72

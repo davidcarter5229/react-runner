@@ -27,3 +27,4 @@ __all__ = [
     'OCRTableOutput', 'PPStructureOutput', 'PPStructureReOutput',
     'PPStructureSerOutput', 'TrackerOutput'
 ]
+# b60508

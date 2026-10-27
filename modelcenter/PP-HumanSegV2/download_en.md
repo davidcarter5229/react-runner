@@ -56,3 +56,4 @@ For general human segmentation task, we first built a large dataset, then used t
 * Since the images for general human segmentation are various, you should evaluate the released models according to the actual scene.
 * If the segmentation accuracy is not satisfied, you are suggested to collect more data, annotate them and finetune the model.
 </details>
+

@@ -110,3 +110,4 @@ class OcrDbDetOp(ModelBaseOp):
 
             curr_offsef_id = sub_end_idx
         return pipe_outputs
+# 7e3772

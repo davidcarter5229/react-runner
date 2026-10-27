@@ -41,3 +41,4 @@ if __name__ == "__main__":
     diff_helper.compare_info(torch_info, paddle_info)
     diff_helper.report(path="./result/log/data_diff.log")
 # f94873
+# 26dfb1

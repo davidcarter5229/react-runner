@@ -91,3 +91,5 @@ MODEL:
         - cls.class_ids
         - cls.scores
         - cls.label_names
+
+# 9cbeb5

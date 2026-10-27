@@ -18,3 +18,5 @@ MODEL:
         - input.filter_table.rec_text
         - input.filter_txts.dt_polys
         - input.filter_txts.rec_text
+
+# 8a6385

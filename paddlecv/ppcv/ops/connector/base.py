@@ -28,3 +28,4 @@ class ConnectorBaseOp(BaseOp):
     @classmethod
     def type(self):
         return 'CONNECTOR'
+# 0e9376

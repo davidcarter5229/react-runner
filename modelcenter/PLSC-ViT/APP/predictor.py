@@ -86,3 +86,4 @@ class Predictor(object):
         class_idx = pred.argsort()[::-1]
         return class_idx[:5], pred[class_idx[:5]], np.array(self.labels)[
             class_idx[:5]]
+# a52863

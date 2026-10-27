@@ -41,3 +41,5 @@ MODEL:
         - input.image
         - kpt.keypoints
         - kpt.kpt_scores
+
+# e3c9a9

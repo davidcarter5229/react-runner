@@ -16,3 +16,4 @@ The PP-OCRv3 model inference speed test uses 6148CPU, MKLDNN is turned on, and t
 
 ## 2. Reference
 1. https://github.com/PaddlePaddle/PaddleOCR/blob/dygraph/doc/doc_en/PP-OCRv3_introduction_en.md
+

@@ -275,3 +275,4 @@ class AutoAugment(paddle.nn.Layer):
         return self.__class__.__name__ + '(policy={}, fill={})'.format(
             self.policy, self.fill)
 # 299c96
+# 7c2b8f

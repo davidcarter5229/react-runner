@@ -246,3 +246,4 @@ def extract_schema(cls):
         schema.set_schema(name, value_schema)
 
     return schema
+# 93f357

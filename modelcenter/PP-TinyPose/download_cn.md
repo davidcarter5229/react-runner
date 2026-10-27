@@ -17,3 +17,4 @@
 - 关键点检测模型与行人检测模型均在4卡环境下训练，若实际训练环境需要改变GPU数量或batch size， 须参考[FAQ](../../../docs/tutorials/FAQ/README.md)对应调整学习率。
 - 推理速度测试环境为 Qualcomm Snapdragon 865，采用arm8下4线程推理得到。
 
+

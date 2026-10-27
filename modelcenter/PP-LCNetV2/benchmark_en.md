@@ -23,3 +23,4 @@ The PP-LCNetV2 series models were evaluated using the ImageNet1k validation data
 ## 3. Instructions
 
 For more information please refer to [PaddleClas-PPLCNetV2](https://github.com/PaddlePaddle/PaddleClas/blob/release/2.5/docs/en/models/PP-LCNetV2_en.md).
+

@@ -20,3 +20,4 @@ PP-Vehicle提供了目标检测、属性识别、行为识别、ReID预训练模
 
 - 检测跟踪模型精度为公开数据集BDD100K-MOT和UA-DETRAC整合后的联合数据集PPVehicle的结果，具体参照[ppvehicle](https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.5/configs/ppvehicle)
 - 预测速度为T4下，开启TensorRT FP16的效果, 模型预测速度包含数据预处理、模型预测、后处理全流程
+

@@ -10,3 +10,4 @@
 | Model  | Description |  Model size | Download |
 |---|---|---|---|
 |ppmatting_hrnet_w18 | Human matting | 87M | [inference model](https://paddleseg.bj.bcebos.com/matting/models/deploy/ppmatting-hrnet_w18-human_512.zip)/[model](https://paddleseg.bj.bcebos.com/matting/models/ppmatting-hrnet_w18-human_512.pdparams) |
+

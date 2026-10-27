@@ -18,3 +18,4 @@ def accuracy_paddle(output, target, topk=(1, )):
             res.append(correct_k * (100.0 / batch_size))
         return res
 # 912265
+# 7c2387

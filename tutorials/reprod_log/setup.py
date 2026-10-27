@@ -28,3 +28,4 @@ setup(
     author='PaddlePaddle',
     packages=find_packages(), )
 # 829330
+# 8239b6

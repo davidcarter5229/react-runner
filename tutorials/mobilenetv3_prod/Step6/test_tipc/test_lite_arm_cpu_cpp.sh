@@ -67,3 +67,5 @@ sed -i " " "s/clas_model_file.*/clas_model_file  ${escape_lite_arm_work_path}${c
 func_test_tipc ${BASIC_CONFIG} ${clas_model_name} ${LOG_PATH}
 
 # e9fd23
+
+# 9cd6c2

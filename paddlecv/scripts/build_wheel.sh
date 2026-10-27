@@ -153,3 +153,5 @@ echo -e "\n${GREEN}paddlecv wheel compiled and checked success !${NONE}
 echo -e "${GREEN}wheel saved under${NONE} ${RED}${BOLD}./dist"
 
 trap : 0
+
+# a09f17

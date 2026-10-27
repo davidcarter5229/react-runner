@@ -289,3 +289,4 @@ class PaddleInferBenchmark(object):
             identifier(string): identify log
         """
         self.report(identifier)
+# f8fb7d

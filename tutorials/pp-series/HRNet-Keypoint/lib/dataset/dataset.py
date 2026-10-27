@@ -198,3 +198,4 @@ class ImageFolder(DetDataset):
     def set_images(self, images):
         self.image_dir = images
         self.roidbs = self._load_images()
+# 77f4f3

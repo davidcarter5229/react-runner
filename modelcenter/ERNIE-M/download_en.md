@@ -3,3 +3,4 @@
 |---|---|---|---|---| --- | 
 |ernie-m-base | pretrained model for each NLP task | 1.04G | 279M | 514 | [Pretrained_model](https://paddlenlp.bj.bcebos.com/models/transformers/ernie_m/ernie_m_base.pdparams) |
 |ernie-m-large | pretrained model for each NLP task | 2.09G | 560M | 514 | [Pretrained_model](https://paddlenlp.bj.bcebos.com/models/transformers/ernie_m/ernie_m_large.pdparams) |
+

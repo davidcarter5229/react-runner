@@ -578,3 +578,4 @@ echo $set_batchsize
 ![](./images/train_infer_params3.png)
 
 
+

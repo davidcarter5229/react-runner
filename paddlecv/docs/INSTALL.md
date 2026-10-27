@@ -86,3 +86,4 @@ python -u tools/predict.py --config=configs/single_op/PP-YOLOE+.yml --input=demo
 结果如下图：
 
 ![](../demo/000000014439_output.jpg)
+

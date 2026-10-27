@@ -123,3 +123,4 @@ export LD_LIBRARY_PATH=/usr/local/python3.7.0/lib:/usr/local/nvidia/lib:/usr/loc
 
 或者问题是下载的TensorRT版本和当前paddle中编译的TRT版本不匹配，需要下载版本相符的TensorRT重新安装。
 
+

@@ -65,3 +65,4 @@ The PP-ShiTuV2 feature extraction model uses the self-built product dataset as t
 
 ## 3. Related Instructions
 Please refer to: https://github.com/PaddlePaddle/PaddleClas/blob/release/2.5/docs/zh_CN/models/PP-ShiTu/README.md
+

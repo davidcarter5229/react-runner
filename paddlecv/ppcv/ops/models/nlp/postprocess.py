@@ -41,3 +41,4 @@ class SentimentAnalysisDecode(object):
         for batch_idx, pred in enumerate(preds):
             results.append({output_keys[0]: pred['label']})
         return results
+# 3dec23

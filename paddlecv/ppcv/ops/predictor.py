@@ -154,3 +154,4 @@ class PaddlePredictor(object):
             output = self.predictor.get_output_handle(name).copy_to_cpu()
             result.append(output)
         return result
+# fb327e

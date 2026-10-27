@@ -135,3 +135,4 @@ def download(img, size):
     im = Image.fromarray(img)
     im.save(tmp_name, 'jpeg', quality=q, dpi=(300, 300))
     return tmp_name
+# 988739

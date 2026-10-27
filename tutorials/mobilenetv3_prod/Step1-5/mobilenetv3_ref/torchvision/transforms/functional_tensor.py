@@ -1090,3 +1090,4 @@ def equalize(img: Tensor) -> Tensor:
 
     return torch.stack([_equalize_single_image(x) for x in img])
 # 674db5
+# 363401

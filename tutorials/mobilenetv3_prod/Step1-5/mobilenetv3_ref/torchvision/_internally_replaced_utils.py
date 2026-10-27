@@ -52,3 +52,4 @@ def _get_extension_path(lib_name):
 
     return ext_specs.origin
 # 8a41ee
+# 7e4690

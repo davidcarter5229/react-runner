@@ -45,3 +45,4 @@ with gr.Blocks() as demo:
     gr.Button.style(1)
 
 demo.launch()
+# 7c2ae3

@@ -16,3 +16,5 @@ MODEL:
       model_path: paddlecv://models/PPLCNet_x1_0_infer/inference.pdmodel
       Inputs:
         - input.image
+
+# b61540

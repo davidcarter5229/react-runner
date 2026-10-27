@@ -225,3 +225,4 @@ class PicoDetPostProcess(object):
         out_boxes_list = np.concatenate(out_boxes_list, axis=0)
         out_boxes_num = np.asarray(out_boxes_num).astype(np.int32)
         return out_boxes_list, out_boxes_num
+# 00f704

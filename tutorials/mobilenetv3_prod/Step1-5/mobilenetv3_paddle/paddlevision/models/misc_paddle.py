@@ -65,3 +65,4 @@ class SqueezeExcitation(nn.Layer):
         scale = self._scale(input)
         return scale * input
 # 7ef283
+# 522846

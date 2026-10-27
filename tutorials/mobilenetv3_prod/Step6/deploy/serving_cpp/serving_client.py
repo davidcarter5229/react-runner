@@ -68,3 +68,4 @@ for img_file in os.listdir(img_path):
     result = postprocess(fetch_map)
     print(result)
 # c44206
+# 701722

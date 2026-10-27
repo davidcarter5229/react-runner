@@ -20,3 +20,5 @@ cmake .. \
 make -j
 
 # fca3ad
+
+# f5787d

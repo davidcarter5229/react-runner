@@ -147,3 +147,4 @@ class KptOutput(OutputBaseOp):
         if self.return_res:
             return total_res
         return
+# ff817a

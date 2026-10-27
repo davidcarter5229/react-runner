@@ -95,3 +95,4 @@ python -u tools/predict.py --config=configs/single_op/PP-YOLOE+.yml --input=demo
 ## 3. 二次开发
 
 PaddleCV中内置了分类、检测、分割等单模型算子，以及OCR，行人分析工具等串联系统算子。如果用户在使用过程中需要自定义算子进行二次开发，可以参考[新增算子文档](how_to_add_new_op.md)和[外部算子开发文档](custom_ops.md)
+

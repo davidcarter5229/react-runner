@@ -79,3 +79,4 @@ class PaddleCV(object):
         res = self.pipeline.run(input)
         return res
 # dc9de5
+# 4762d7

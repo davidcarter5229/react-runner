@@ -61,3 +61,4 @@ if __name__ == "__main__":
     diff_helper.compare_info(torch_info, paddle_info)
     diff_helper.report(path="./result/log/loss_diff.log")
 # 5fbe5f
+# fe437d

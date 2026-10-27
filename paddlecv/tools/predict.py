@@ -69,3 +69,4 @@ if __name__ == '__main__':
     input = os.path.abspath(FLAGS.input)
     pipeline = Pipeline(FLAGS)
     result = pipeline.run(input)
+# b8f355

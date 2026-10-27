@@ -54,3 +54,4 @@ PP-OCRv3: paddlecv://configs/system/PP-OCRv3.yml
 ## 3. 高阶开发
 
 如果你希望优化paddlecv whl包接口，可以修改`paddlecv.py`文件，然后重新编译生成whl包即可。
+

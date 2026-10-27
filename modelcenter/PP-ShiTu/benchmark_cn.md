@@ -51,3 +51,4 @@ PP-ShiTu特征提取模型使用自建产品数据集作为测试集
 
 ## 3. 相关使用说明
 请参考：https://github.com/PaddlePaddle/PaddleClas/tree/release/2.4/docs/zh_CN/image_recognition_pipeline
+

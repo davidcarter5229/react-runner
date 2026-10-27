@@ -232,3 +232,4 @@ class NormalizeImage(BaseOperator):
 
         sample['image'] = im
         return sample
+# 084be2

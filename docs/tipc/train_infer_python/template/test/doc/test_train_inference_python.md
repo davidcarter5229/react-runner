@@ -73,3 +73,4 @@ Run successfully with command - xxx
 本文档为功能测试用，更丰富的训练预测使用教程请参考：  
 
 * [模型训练、预测、推理教程](../../README.md)  
+

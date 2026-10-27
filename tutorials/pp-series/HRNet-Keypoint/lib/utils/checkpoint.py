@@ -229,3 +229,4 @@ def save_model(model, optimizer, save_dir, save_name, last_epoch):
     state_dict['last_epoch'] = last_epoch
     paddle.save(state_dict, save_path + ".pdopt")
     logger.info("Save checkpoint: {}".format(save_dir))
+# 041325

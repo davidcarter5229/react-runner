@@ -15,3 +15,4 @@
 from .inference import PPStructureKieSerOp, PPStructureKieReOp
 
 __all__ = ['PPStructureKieSerOp', 'PPStructureKieReOp']
+# d24c2d

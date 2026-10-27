@@ -17,3 +17,4 @@
 | --- | --- | --- | ---| --- | --- | --- | --- | --- |
 |PP-LiteSeg-T|STDC1|10000|960x720|960x720|73.30%|73.89%|73.66%|[config](https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.6/configs/pp_liteseg//pp_liteseg_stdc1_camvid_960x720_10k.yml)\|[Pretrained_model](https://paddleseg.bj.bcebos.com/dygraph/camvid/pp_liteseg_stdc1_camvid_960x720_10k/model.pdparams)\|[inference_model](https://paddleseg.bj.bcebos.com/inference/pp_liteseg_infer_models/pp_liteseg_stdc1_camvid_960x720_10k_inference_model.zip)|
 |PP-LiteSeg-B|STDC2|10000|960x720|960x720|75.10%|75.85%|75.48%|[config](https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.6/configs/pp_liteseg//pp_liteseg_stdc2_camvid_960x720_10k.yml)\|[Pretrained_model](https://paddleseg.bj.bcebos.com/dygraph/camvid/pp_liteseg_stdc2_camvid_960x720_10k/model.pdparams)\|[inference_model](https://paddleseg.bj.bcebos.com/inference/pp_liteseg_infer_models/pp_liteseg_stdc2_camvid_960x720_10k_inference_model.zip)|
+

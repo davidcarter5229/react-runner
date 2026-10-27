@@ -71,3 +71,4 @@ image_name: ./images/demo.jpg, class_id: 8, prob: 0.9091264605522156
 
 ## 3. FAQ
 
+

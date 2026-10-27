@@ -730,3 +730,4 @@ class HRNet(nn.Layer):
                 channels=self._out_channels[i], stride=self._out_strides[i])
             for i in self.return_idx
         ]
+# b6e14c

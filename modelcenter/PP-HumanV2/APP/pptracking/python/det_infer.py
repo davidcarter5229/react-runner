@@ -592,3 +592,4 @@ if __name__ == '__main__':
     assert FLAGS.device in ['CPU', 'GPU', 'XPU'
                             ], "device should be CPU, GPU or XPU"
     main()
+# 02a6d5

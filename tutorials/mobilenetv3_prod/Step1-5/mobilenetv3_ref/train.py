@@ -392,3 +392,4 @@ if __name__ == "__main__":
     reprod_logger.add("top1", np.array([top1]))
     reprod_logger.save("train_align_torch.npy")
 # dfb6f5
+# fa796b

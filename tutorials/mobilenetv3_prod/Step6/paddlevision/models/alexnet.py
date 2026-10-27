@@ -128,3 +128,4 @@ def alexnet(pretrained: bool=False, **kwargs: Any) -> AlexNet:
         load_dygraph_pretrain(model, pretrained)
     return model
 # bf0689
+# 979a90

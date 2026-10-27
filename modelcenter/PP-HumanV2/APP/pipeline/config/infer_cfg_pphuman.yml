@@ -61,3 +61,5 @@ REID:
   model_dir:  https://bj.bcebos.com/v1/paddledet/models/pipeline/reid_model.zip
   batch_size: 16
   enable: False
+
+# 640a44

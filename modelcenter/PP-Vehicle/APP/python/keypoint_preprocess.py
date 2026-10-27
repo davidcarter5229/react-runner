@@ -241,3 +241,4 @@ def expand_crop(images, rect, expand_ratio=0.3):
     xmin = max(0, int(center[1] - w_half))
     xmax = min(imgw - 1, int(center[1] + w_half))
     return images[ymin:ymax, xmin:xmax, :], [xmin, ymin, xmax, ymax], org_rect
+# d028db

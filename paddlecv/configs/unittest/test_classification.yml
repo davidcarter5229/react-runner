@@ -44,3 +44,5 @@ MODEL:
         - cls.class_ids
         - cls.scores
         - cls.label_names
+
+# 13061d

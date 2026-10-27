@@ -15,3 +15,4 @@
 | conformer | 32.52 M |  spec_aug  | aishell1 | ctc_greedy_search | -1 | 0.061884 |  
 | conformer | 32.52 M |  spec_aug  | aishell1 | ctc_prefix_beam_search | -1 | 0.062056 |  
 | conformer | 32.52 M | spec_aug  | aishell1 | attention_rescoring | -1 |  0.052110 |
+

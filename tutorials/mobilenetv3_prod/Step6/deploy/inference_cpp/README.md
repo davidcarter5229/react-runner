@@ -240,3 +240,4 @@ Current time cost: 0.0473620000 s, average time cost in all: 0.0473620000 s.
 表示预测的类别ID是`8`，置信度为`0.901`，该结果与基于训练引擎的结果完全一致。
 其中`class id`表示置信度最高的类别对应的id，score表示图片属于该类别的概率。
 
+

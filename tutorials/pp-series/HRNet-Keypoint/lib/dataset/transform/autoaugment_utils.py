@@ -1589,3 +1589,4 @@ def distort_image_with_autoaugment(image, bboxes, augmentation_name):
     augmentation_hparams = {}
     return build_and_apply_nas_policy(policy, image, bboxes,
                                       augmentation_hparams)
+# 8e539a

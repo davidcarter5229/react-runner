@@ -104,3 +104,4 @@ class DistMSELoss(nn.Layer):
                                                          heatmap_gt)
         loss = loss / num_joints * self.weight
         return loss
+# 5afa74

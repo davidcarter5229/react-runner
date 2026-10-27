@@ -11,3 +11,4 @@ python:python3.7
 inference:deploy/onnx_python/infer.py
 --onnx_file:./inference/mobilenetv3_model_onnx/model.onnx
 --img_path:./lite_data/test/demo.jpg
+

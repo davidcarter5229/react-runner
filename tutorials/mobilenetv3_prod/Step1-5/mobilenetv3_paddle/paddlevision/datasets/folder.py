@@ -311,3 +311,4 @@ class ImageFolder(DatasetFolder):
             is_valid_file=is_valid_file)
         self.imgs = self.samples
 # 234c90
+# ac3ae2

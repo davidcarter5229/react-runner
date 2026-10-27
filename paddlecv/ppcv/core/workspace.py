@@ -52,3 +52,4 @@ def create(cls_name, op_cfg, env_cfg):
 
 def get_global_op():
     return global_config
+# 4a4b4d

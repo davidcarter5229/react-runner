@@ -5,3 +5,4 @@
 | Docprompt | Docprompt是文档抽取问答模型，是基于ERNIE-Layout在文档视觉问答任务上微调后的模型 | 2.16GB | [推理模型](https://bj.bcebos.com/paddlenlp/taskflow/document_intelligence/docprompt/docprompt_params.tar)|
 
 
+

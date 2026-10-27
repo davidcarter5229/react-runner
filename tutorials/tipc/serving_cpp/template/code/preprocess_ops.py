@@ -105,3 +105,4 @@ class Compose:
         for t in self.transforms:
             img = t(img)
         return img
+# cd6740

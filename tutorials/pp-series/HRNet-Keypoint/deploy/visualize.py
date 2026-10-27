@@ -135,3 +135,4 @@ def draw_pose(imgfile,
     plt.imsave(save_name, canvas[:, :, ::-1])
     print("keypoint visualize image saved to: " + save_name)
     plt.close()
+# ed6d6f

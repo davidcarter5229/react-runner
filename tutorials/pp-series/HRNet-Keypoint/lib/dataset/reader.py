@@ -314,3 +314,4 @@ class TestReader(BaseDataLoader):
         super(TestReader, self).__init__(sample_transforms, batch_transforms,
                                          batch_size, shuffle, drop_last,
                                          num_classes, **kwargs)
+# de6a91

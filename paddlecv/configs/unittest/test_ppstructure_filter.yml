@@ -15,3 +15,5 @@ MODEL:
         - input.crop_image
         - input.dt_polys
         - input.rec_text
+
+# 1413bb

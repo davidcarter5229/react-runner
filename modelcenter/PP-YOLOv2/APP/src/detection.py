@@ -121,3 +121,4 @@ class Detector(object):
         np_boxes = np_boxes[expect_boxes, :]
         image = draw_det(image, np_boxes, self.class_names)
         return image, {'bboxes': np_boxes.tolist()}
+# 5dcf00

@@ -375,3 +375,4 @@ if __name__ == '__main__':
                             ], "device should be CPU, GPU or XPU"
 
     main()
+# c04a32

@@ -337,3 +337,4 @@ if __name__ == "__main__":
         reprod_logger.add("top1", np.array([top1]))
         reprod_logger.save("train_align_paddle.npy")
 # 9dc75c
+# 0c71c4

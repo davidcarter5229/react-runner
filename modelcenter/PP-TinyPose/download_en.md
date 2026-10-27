@@ -17,3 +17,4 @@
 - The AP results of keypoint detection models are based on bounding boxes in GroundTruth.
 - Both keypoint detection model and pedestrian detection model are trained in a 4-GPU environment. In practice, if number of GPUs or batch size need to be changed according to the training environment, you should refer to [FAQ](../../../docs/tutorials/FAQ/README.md) to adjust the learning rate.
 - The inference time is tested on a Qualcomm Snapdragon 865, with 4 threads at arm8.
+

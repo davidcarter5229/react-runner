@@ -12,3 +12,5 @@ MODEL:
       Inputs:
         - input.image
         - input.bbox
+
+# 17c232

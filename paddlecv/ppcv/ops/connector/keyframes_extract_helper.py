@@ -152,3 +152,4 @@ class LUVAbsDiffKeyFrameExtractor(KeyFrameExtractor):
             success, frame = cap.read()
         cap.release()
         return keyframes, keyframe_id_set
+# 3ea017

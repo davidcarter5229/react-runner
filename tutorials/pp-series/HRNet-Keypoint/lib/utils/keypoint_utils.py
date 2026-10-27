@@ -340,3 +340,4 @@ def soft_oks_nms(kpts_db, thresh, sigmas=None, in_vis_thre=None):
     keep = keep[:keep_cnt]
 
     return keep
+# e4dc30

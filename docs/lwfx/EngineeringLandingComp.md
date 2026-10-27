@@ -250,3 +250,4 @@ idx: 16 shape [1, 160, 20, 20]
 * 骨干网络的实现与预训练模型可以从[PaddleClas](https://github.com/PaddlePaddle/PaddleClas)中获得，预训练模型的下载地址在骨干网络实现的文件中可以获得，以`MobileNetV3_large_x1_0`为例，预训练模型下载地址对应的内容为：[链接](https://github.com/PaddlePaddle/PaddleClas/blob/323e1bf929397be30171ee00d2b2dd19d86d20c4/ppcls/arch/backbone/legendary_models/mobilenet_v3.py#L25)，定义的时候，指定`pretrained`参数为`True`即可加载预训练模型。
 
 <a name="5.4"></a>
+

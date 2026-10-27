@@ -161,3 +161,4 @@ def fuse_motion(kf,
         cost_matrix[row] = lambda_ * cost_matrix[row] + (1 - lambda_
                                                          ) * gating_distance
     return cost_matrix
+# bb98f1

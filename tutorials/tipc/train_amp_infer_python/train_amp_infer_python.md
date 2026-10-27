@@ -209,3 +209,4 @@ GLOG_v=5 python3 train.py --data-path=./ILSVRC2012 --lr=0.1 --batch-size=256 --a
 
 由于FP16可表示的数据动态范围较小（最大65504），首先需要确定组网过程中不要出现将参数乘较大系数情况。如果没有上述问题，可通过官网提供的[check_nan_inf](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/flags/check_nan_inf_cn.html)工具进行初步检查，确定出现nan/inf的op，而后可以尝试将上述op添加到`paddle.amp.autocast()`的自定义黑名单中，使该op使用FP32 kernel进行计算。
 `paddle.amp.auto_cast`使用介绍见[API文档](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/paddle/amp/auto_cast_cn.html)。
+

@@ -246,3 +246,4 @@ python tools/predict.py --pretrained=./mobilenet_v3_small_pretrained.pdparams --
 1. Howard A, Sandler M, Chu G, et al. Searching for mobilenetv3[C]//Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019: 1314-1324.
 2. vision: https://github.com/pytorch/vision
 
+

@@ -161,3 +161,4 @@ quant_post_static(
 
 - 如何选择离线量化方法？
 选择合适的离线量化方法，比如`KL`、`hist`、`mse`等，具体离线量化方法选择可以参考API文档：[quant_post_static API文档](https://github.com/PaddlePaddle/PaddleSlim/blob/develop/docs/zh_cn/api_cn/static/quant/quantization_api.rst#quant_post_static)。
+

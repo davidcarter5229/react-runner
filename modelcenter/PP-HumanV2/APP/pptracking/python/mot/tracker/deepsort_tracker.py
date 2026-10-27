@@ -183,3 +183,4 @@ class DeepSORTTracker(object):
             Track(mean, covariance, self._next_id, self.n_init, self.max_age,
                   detection.cls_id, detection.score, detection.feature))
         self._next_id += 1
+# 13a326

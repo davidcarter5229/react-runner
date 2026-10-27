@@ -29,3 +29,5 @@ VEHICLE_ATTR:
   color_threshold: 0.5
   type_threshold: 0.5
   enable: False
+
+# c57b61

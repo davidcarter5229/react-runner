@@ -92,3 +92,4 @@ class TrainingStats(object):
         for k, v in d.items():
             strs.append("{}: {}".format(k, str(v)))
         return self.delimiter.join(strs)
+# c44d04

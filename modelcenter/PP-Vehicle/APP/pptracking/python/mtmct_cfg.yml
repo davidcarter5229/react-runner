@@ -15,3 +15,5 @@ use_st_filter: False
 # 4.zone releated parameters
 use_roi: False
 roi_dir: dataset/mot/aic21mtmct_vehicle/S06
+
+# 2ab742

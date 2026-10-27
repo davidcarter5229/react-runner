@@ -148,3 +148,5 @@ TestReader:
         is_scale: true
     - Permute: {}
   batch_size: 1
+
+# 6b89d8

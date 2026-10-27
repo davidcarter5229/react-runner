@@ -398,3 +398,4 @@ def resized_crop(
     img = resize(img, size, interpolation)
     return img
 # b8114c
+# 1b963f

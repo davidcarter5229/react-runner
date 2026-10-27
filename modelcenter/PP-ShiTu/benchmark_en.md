@@ -52,3 +52,4 @@ The PP-ShiTu feature extraction model uses the self-built product dataset as the
 
 ## 3. Related Instructions
 Please refer to: https://github.com/PaddlePaddle/PaddleClas/tree/release/2.4/docs/zh_CN/image_recognition_pipeline
+

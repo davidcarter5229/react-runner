@@ -338,3 +338,4 @@ def auto_download_model(model_path):
 if __name__ == "__main__":
     model_path = "https://bj.bcebos.com/v1/paddledet/models/pipeline/mot_ppyoloe_l_36e_pipeline.zip"
     auto_download_model(model_path)
+# 15bfa7

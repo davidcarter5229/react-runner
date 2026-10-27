@@ -112,3 +112,4 @@ class ActionVisualHelper(object):
             action_info["class"] = action_res["class"]
             action_info["life_remain"] = self.frame_life
             self.action_history[mot_id] = action_info
+# 3e2df4

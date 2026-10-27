@@ -58,3 +58,4 @@ The PP-LCNet series models were evaluated using the ImageNet1k validation datase
 ## 3. Instructions
 
 For more information please refer to [PaddleClas-PPLCNet](https://github.com/PaddlePaddle/PaddleClas/blob/release/2.5/docs/en/models/PP-LCNet_en.md).
+

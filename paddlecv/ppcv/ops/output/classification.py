@@ -57,3 +57,4 @@ class ClasOutput(OutputBaseOp):
         if self.return_res:
             return total_res
         return
+# 2961ec

@@ -58,3 +58,4 @@ class DetectionCustomOp(ModelBaseOp)
 ## 3. 外部算子实现方式
 
 可直接参考[新增算子文档](how_to_add_new_op.md)，实现后使用方式与paddlecv内部提供算子相同。paddlecv中提供检测外部算子[示例](../custom_op)
+

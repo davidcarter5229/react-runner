@@ -163,3 +163,4 @@ if paddle.distributed.get_rank() == 0:
 - 问：程序中报错，显示NCCL相关错误，怎么排查原因？
 
 - 答：可以通过设置如下环境变量查看程序错误信息：`export NCCL_DEBUG=INFO`。并重点关注NCCL WARN相关信息。
+

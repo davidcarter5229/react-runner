@@ -18,3 +18,4 @@ PP-Vehicle End-to-end model results (click to expand
 Click to download the model, then unzip and save it in the `. /output_inference`.
 
 In the configuration file, the model path is the download path of the model by default. If the user does not modify it, the corresponding model will be automatically downloaded during reasoning
+

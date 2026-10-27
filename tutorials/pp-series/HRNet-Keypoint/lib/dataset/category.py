@@ -791,3 +791,4 @@ def _visdrone_category():
         9: 'motor'
     }
     return clsid2catid, catid2name
+# ae4875

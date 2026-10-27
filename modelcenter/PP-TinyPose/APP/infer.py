@@ -1031,3 +1031,4 @@ if __name__ == '__main__':
     ), 'To enable mkldnn bfloat, please turn on both enable_mkldnn and enable_mkldnn_bfloat16'
 
     main()
+# e5259b

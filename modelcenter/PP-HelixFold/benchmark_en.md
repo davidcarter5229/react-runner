@@ -20,3 +20,4 @@ Compared with the computational performance of AlphaFold2 reported in the paper 
 
 ## 2. Reference
 Ref: https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold
+

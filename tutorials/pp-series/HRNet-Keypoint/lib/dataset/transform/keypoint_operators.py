@@ -325,3 +325,4 @@ class ToHeatmapsTopDown(object):
         del records['joints'], records['joints_vis']
 
         return records
+# 74b870

@@ -392,3 +392,4 @@ class PPStructureReOutput(PPStructureSerOutput):
 
         img_new = Image.blend(image, img_new, 0.5)
         return np.array(img_new)
+# f15493

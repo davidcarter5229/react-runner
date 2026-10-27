@@ -1055,3 +1055,4 @@ Tensor 切片的时候增加变量引用，导致显存增加。
 
 目前`paddle.take_along_axis`和`torch.gather`的功能等价，可以安装develop版本的paddle体验，该API预计会在2022年3月上线paddle的最新release版本
 
+

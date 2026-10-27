@@ -443,3 +443,4 @@ def visualize_vehicleplate(im, results, boxes=None):
                 text_scale, (0, 255, 255),
                 thickness=text_thickness)
     return im
+# 9166ce

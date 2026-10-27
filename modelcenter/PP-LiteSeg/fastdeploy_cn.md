@@ -41,3 +41,4 @@ python infer.py --model PP_LiteSeg_T_STDC1_cityscapes_without_argmax_infer --ima
 <img src="https://user-images.githubusercontent.com/54695910/203298024-4ed3b8ee-f393-4107-9e14-d52ad7bcbb89.png"  width = "50%" >
 </div>
 
+

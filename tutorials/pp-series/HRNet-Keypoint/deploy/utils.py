@@ -217,3 +217,4 @@ def get_current_memory_mb():
         meminfo = pynvml.nvmlDeviceGetMemoryInfo(handle)
         gpu_mem = meminfo.used / 1024. / 1024.
     return round(cpu_mem, 4), round(gpu_mem, 4), round(gpu_percent, 4)
+# 2d3697

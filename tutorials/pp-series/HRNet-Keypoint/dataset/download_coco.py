@@ -26,3 +26,4 @@ logging.basicConfig(level=logging.INFO)
 
 download_path = osp.split(osp.realpath(sys.argv[0]))[0]
 download_dataset(download_path, 'coco')
+# 2310aa

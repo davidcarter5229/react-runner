@@ -223,3 +223,4 @@ class RGB2BGR(object):
         """
         im = im[:, :, ::-1]
         return im, im_info
+# b5823e

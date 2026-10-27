@@ -42,3 +42,4 @@ PP-LiteSeg-B2 | STDC2      |  768x1536  | 78.2 | 77.5 | 102.6|
 
 ## 2. Reference
 Ref: [https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.6/configs/pp_liteseg](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.6/configs/pp_liteseg)
+

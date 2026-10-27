@@ -28,3 +28,4 @@ Windows GPU/CPU 基础训练推理开发过程主要步骤与[《Linux GPU/CPU �
 ## 3. Windows GPU/CPU 基础训练推理测试开发与规范
 
 [《Windows GPU/CPU 基础训练推理测试开发规范》](./test_windows_train_infer_python.md)。
+

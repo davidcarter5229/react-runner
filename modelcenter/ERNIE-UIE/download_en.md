@@ -11,3 +11,4 @@
   | `uie-nano`| 4-layers, 312-hidden, 12-heads | Information Extraction  | ZH |69MB|[Pretrained Model](https://bj.bcebos.com/paddlenlp/models/transformers/uie/uie_nano.pdparams) |
   | `uie-m-large`| 24-layers, 1024-hidden, 16-heads | Information Extraction  | ZH,EN |2.1G|[Pretrained Model](https://paddlenlp.bj.bcebos.com/models/transformers/uie_m/uie_m_large.pdparams) |
   | `uie-m-base`| 12-layers, 768-hidden, 12-heads | Information Extraction  | ZH,EN |1.1G|[Pretrained Model](https://paddlenlp.bj.bcebos.com/models/transformers/uie_m/uie_m_base.pdparams) |
+

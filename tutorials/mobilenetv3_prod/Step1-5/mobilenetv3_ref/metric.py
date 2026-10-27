@@ -17,3 +17,4 @@ def accuracy_torch(output, target, topk=(1, )):
             res.append(correct_k * (100.0 / batch_size))
         return res
 # 10fa3f
+# b1949c

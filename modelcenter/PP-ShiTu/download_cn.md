@@ -3,3 +3,4 @@
 | ----------------------------------- | -------- | -------- | -------- | --------------------------- |
 | picodet_lcnet_x2_5_640_mainbody     | 主体检测 |    30MB      | 640      | [推理模型](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/rec/models/inference/picodet_PPLCNet_x2_5_mainbody_lite_v1.0_infer.tar)/[预训练模型](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/rec/models/inference/picodet_PPLCNet_x2_5_mainbody_lite_v1.0_infer.tar) |
 | GeneralRecognition_PPLCNet_x2_5 | 特征提取 |    19MB     | 224      | [推理模型](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/rec/models/inference/general_PPLCNet_x2_5_lite_v1.0_infer.tar)/[预训练模型](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/rec/models/pretrain/general_PPLCNet_x2_5_pretrained_v1.0.pdparams) |
+

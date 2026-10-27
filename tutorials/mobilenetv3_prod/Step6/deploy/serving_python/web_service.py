@@ -124,3 +124,4 @@ uci_service.prepare_pipeline_config(yml_dict=FLAGS.conf_dict)
 # start the service
 uci_service.run_service()
 # 5d120c
+# 705fba

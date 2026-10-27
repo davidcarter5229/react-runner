@@ -82,3 +82,4 @@ bash test_tipc/test_train_inference_python.sh ./test_tipc/configs/${model_name}/
 
 - [test_train_inference_python 使用](docs/test_train_inference_python.md) ：测试基于Python的模型训练、评估、推理等基本功能。
 
+

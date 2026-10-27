@@ -26,3 +26,4 @@ __all__ = ocr_db_detection.__all__
 __all__ += ocr_crnn_recognition.__all__
 __all__ += ocr_table_recognition.__all__
 __all__ += ocr_kie.__all__
+# 4b3239

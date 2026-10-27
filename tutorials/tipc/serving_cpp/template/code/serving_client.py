@@ -54,3 +54,4 @@ feed, fetch = preprocess(img_path)
 fetch_map = client.predict(feed=feed, fetch=fetch)
 result = postprocess(fetch_map)
 print(result)
+# be3c95

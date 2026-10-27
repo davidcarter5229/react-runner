@@ -206,3 +206,4 @@ class PPStructureKieReOp(ModelBaseOp):
                 d[self.output_keys[1]].append(res[1])
             pipe_outputs.append(d)
         return pipe_outputs
+# ec5f33

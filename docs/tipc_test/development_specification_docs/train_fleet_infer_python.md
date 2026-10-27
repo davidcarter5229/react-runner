@@ -169,3 +169,4 @@ whole_train_whole_infer:  全量数据训练，全量数据预测，验证模型
  `注意`: 多机多卡训练预测链条，覆盖了混合精度训练模式。因此，在混合精度训练预测配置文件中，不再包含多机多卡的配置项。
 
 自动化测试脚本包括三个部分，分别是运行脚本`test_train_inference_python.sh`，参数文件`configs/ppocr_det_mobile/train_linux_gpu_fleet_amp_infer_python_linux_gpu_cpu.txt`，数据模型准备脚本`prepare.sh`。理论上只需要修改`configs/xxxx/train_linux_gpu_fleet_amp_infer_python_linux_gpu_cpu.txt`和`prepare.sh`就可以完成自动化测试。
+

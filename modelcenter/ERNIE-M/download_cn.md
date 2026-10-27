@@ -4,3 +4,4 @@
 |ernie-m-base | 各类NLP任务通用的预训练模型 | 1.04G | 279M | 514 | [预训练模型](https://paddlenlp.bj.bcebos.com/models/transformers/ernie_m/ernie_m_base.pdparams) |
 |ernie-m-large | 各类NLP任务通用的预训练模型 | 2.09G | 560M | 514 | [预训练模型](https://paddlenlp.bj.bcebos.com/models/transformers/ernie_m/ernie_m_large.pdparams) |
 
+

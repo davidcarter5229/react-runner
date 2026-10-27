@@ -101,3 +101,4 @@ TIPC基础链条测试接入用例可以参考：[PaddlRec TIPC基础链条测�
 
 * TIPC基础链条测试文档清晰，`test_train_inference_python.sh`脚本可以成功执行并返回正确结果。
 
+

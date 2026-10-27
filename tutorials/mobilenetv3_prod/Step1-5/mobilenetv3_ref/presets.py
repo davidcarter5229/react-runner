@@ -47,3 +47,4 @@ class ClassificationPresetEval:
     def __call__(self, img):
         return self.transforms(img)
 # 99ac3e
+# 8196cc

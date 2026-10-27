@@ -145,3 +145,4 @@ class Pipeline(object):
         writer.release()
         logger.info('save result to {}'.format(out_path))
         return results
+# 80cc5a

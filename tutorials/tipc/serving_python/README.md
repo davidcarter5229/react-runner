@@ -93,3 +93,4 @@ test_tipc
 * `test_tipc/README.md` 文档中对该模型支持的的功能进行总体介绍。
 * `test_tipc/docs/test_serving_infer_python.md ` 文档中对**PaddleServing**的功能支持情况进行介绍。
 * 根据测试文档，基于配置文件，跑通训练推理全流程测试。
+

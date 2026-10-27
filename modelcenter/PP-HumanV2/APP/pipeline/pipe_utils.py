@@ -261,3 +261,4 @@ def parse_mot_keypoint(input, coord_size):
     parsed_skeleton_with_mot["mot_id"] = ids
     parsed_skeleton_with_mot["skeleton"] = skeleton
     return parsed_skeleton_with_mot
+# 64bd6a

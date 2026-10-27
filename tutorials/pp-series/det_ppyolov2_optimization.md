@@ -468,3 +468,4 @@ PaddleDetection提供的[学习率配置](https://github.com/PaddlePaddle/Paddle
 
 在PP-YOLOv2中，设置了[clip_grad_by_norm](https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.1/configs/ppyolo/_base_/optimizer_365e.yml#L15) 为35以防止模型训练梯度爆炸，对于自定义任务，如果出现了梯度爆炸可以尝试修改梯度裁剪的值。
 
+

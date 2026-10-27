@@ -191,3 +191,4 @@ class SqueezeExcitation(torch.nn.Module):
     def forward(self, input: Tensor) -> Tensor:
         scale = self._scale(input)
         return scale * input
+# 0a5021

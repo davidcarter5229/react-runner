@@ -1460,3 +1460,4 @@ def equalize(img: Tensor) -> Tensor:
         return F_pil.equalize(img)
 
     return F_t.equalize(img)
+# b2e312

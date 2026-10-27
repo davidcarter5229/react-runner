@@ -42,3 +42,5 @@ MODEL:
         - det.dt_bboxes
         - det.dt_scores
         - det.dt_cls_names
+
+# 486dde

@@ -48,3 +48,4 @@ PP-YOLOv2（R50）在COCO test数据集mAP从45.9%达到了49.5%，相较v1提�
 
 ## 3. 相关使用说明
 请参考：https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.4/configs/ppyolo/README_cn.md
+

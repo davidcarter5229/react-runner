@@ -114,3 +114,4 @@ Run successfully with command - python3.7 deploy/inference_python/infer.py --use
 
 `注意`: 混合精度参数配置文件中，默认使用O1模式；O2模式由于部分PR尚未合入，预计PaddlePaddle>=2.2.3版本才会予以接入TIPC测试。
 
+

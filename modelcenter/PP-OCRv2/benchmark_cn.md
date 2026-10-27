@@ -19,3 +19,4 @@
 
 ## 2. 相关使用说明
 1. https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.4#pp-ocrv2-pipeline
+

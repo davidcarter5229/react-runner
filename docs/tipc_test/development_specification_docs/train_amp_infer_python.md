@@ -169,3 +169,4 @@ whole_train_whole_infer:  全量数据训练，全量数据预测，验证模型
  2. 修改Global.auto_cast字段:  修改为`Global.auto_cast:amp`
 
 自动化测试脚本包括三个部分，分别是运行脚本`test_train_inference_python.sh`，参数文件`configs/ppocr_det_mobile/train_linux_gpu_normal_amp_infer_python_linux_gpu_cpu.txt`，数据模型准备脚本`prepare.sh`。理论上只需要修改`configs/xxxx/train_linux_gpu_normal_amp_infer_python_linux_gpu_cpu.txt`和`prepare.sh`就可以完成自动化测试。
+

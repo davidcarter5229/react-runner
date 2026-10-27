@@ -144,3 +144,4 @@ if __name__ == '__main__':
     assert not FLAGS.use_gpu, "use_gpu has been deprecated, please use --device"
 
     main()
+# 7999ce

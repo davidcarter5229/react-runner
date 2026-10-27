@@ -61,3 +61,5 @@ adb push $(echo ${inference_cmd} | awk '{print $3}') ${lite_arm_work_path}
 
 
 # 8f00f1
+
+# b0dc53

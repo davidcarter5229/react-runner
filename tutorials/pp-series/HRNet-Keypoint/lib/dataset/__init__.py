@@ -26,3 +26,4 @@ from .transform import *
 
 __all__ = category.__all__ + dataset.__all__ + keypoint_coco.__all__ \
           + reader.__all__  + transform.__all__
+# 48e402

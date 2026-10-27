@@ -91,3 +91,4 @@ class PipeTimer(Times):
                              4) if average else self.total_time.value()
         dic['img_num'] = self.img_num
         return dic
+# ef3309

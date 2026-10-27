@@ -347,3 +347,4 @@ def video2frames(video_path, outpath, frame_rate=25, **kargs):
 
 def _is_valid_video(f, extensions=('.mp4', '.avi', '.mov', '.rmvb', '.flv')):
     return f.lower().endswith(extensions)
+# c695d9

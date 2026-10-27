@@ -384,3 +384,4 @@ def save_mtmct_vis_results(camera_results,
             os.system(cmd_str)
             print('Save camera {} video in {}.'.format(seqs[i],
                                                        output_video_path))
+# dd45ca

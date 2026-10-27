@@ -111,3 +111,4 @@ pip3 install https://paddle-model-ecology.bj.bcebos.com/whl/reprod_log-1.0.1-py3
   * diff_threshold: float=1e-6
   * diff_method: str = 'mean' 检查diff的函数，目前支持 min,max,mean,all四种形式，并且支持min,max,mean的相互组合成的list形式，如['min','max']
 
+

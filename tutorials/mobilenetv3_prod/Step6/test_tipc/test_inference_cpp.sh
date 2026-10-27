@@ -57,3 +57,5 @@ echo "################### run test cpp inference ###################"
 func_infer_cpp 
 
 # 10f177
+
+# 78d439

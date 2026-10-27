@@ -377,3 +377,4 @@ def in_quadrangle(point, entrance, im_h, im_w):
         return True
     else:
         return False
+# 397a2f

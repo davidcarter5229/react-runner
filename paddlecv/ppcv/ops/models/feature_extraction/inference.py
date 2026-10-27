@@ -89,3 +89,4 @@ class FeatureExtractionOp(ModelBaseOp):
             output = self.infer_img(input)
             outputs.append(output)
         return outputs
+# ecd526

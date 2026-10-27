@@ -19,3 +19,4 @@ inference:deploy/inference_python/infer.py
 --img-path:./images/demo.jpg
 --benchmark:True
 
+

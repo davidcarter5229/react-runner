@@ -345,3 +345,4 @@ def equalize(img):
         raise TypeError('img should be PIL Image. Got {}'.format(type(img)))
     return ImageOps.equalize(img)
 # dadcd7
+# 653df9

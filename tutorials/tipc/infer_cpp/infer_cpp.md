@@ -193,3 +193,4 @@ make -j
 ```
 ## 3. FAQ
 在上述配置中如果遇到相关问题可以参考[文档](https://paddleinference.paddlepaddle.org.cn/demo_tutorial/x86_linux_demo.html)以及[FAQ](https://paddleinference.paddlepaddle.org.cn/introduction/faq.html).
+

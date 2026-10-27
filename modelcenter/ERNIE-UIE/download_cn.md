@@ -11,3 +11,4 @@
   | `uie-nano`| 4-layers, 312-hidden, 12-heads | 文本抽取 | 中文 | 69MB|[预训练模型](https://bj.bcebos.com/paddlenlp/models/transformers/uie/uie_nano.pdparams) |
   | `uie-m-large`| 24-layers, 1024-hidden, 16-heads | 文本抽取 | 中、英文 | 2.1G|[预训练模型](https://paddlenlp.bj.bcebos.com/models/transformers/uie_m/uie_m_large.pdparams) |
   | `uie-m-base`| 12-layers, 768-hidden, 12-heads | 文本抽取 | 中、英文 | 1.1G|[预训练模型](https://paddlenlp.bj.bcebos.com/models/transformers/uie_m/uie_m_base.pdparams) |
+

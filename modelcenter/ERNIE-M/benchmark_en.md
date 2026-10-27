@@ -100,3 +100,4 @@ Reference to paper： [Ouyang X ,  Wang S ,  Pang C , et al. ERNIE-M: Enhanced M
 | VECO LARGE                              | 86.9     |
 | **ERNIE-M LARGE**                       | **87.9** |
 | **ERNIE-M LARGE（ after fine-tuning）** | 93.3     |
+

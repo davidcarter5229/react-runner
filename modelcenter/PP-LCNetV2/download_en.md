@@ -3,3 +3,4 @@
 |---|---|---|---|
 | PPLCNetV2_base  | Image classification | 224 | [Inference](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/inference/PPLCNetV2_base_infer.tar)/[Pretrained](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/legendary_models/PPLCNetV2_base_pretrained.pdparams) |
 | PPLCNetV2_base_ssld  | Image classification | 224 | [Inference](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/inference/PPLCNetV2_base_ssld_infer.tar)/[Pretrained](https://paddle-imagenet-models-name.bj.bcebos.com/dygraph/legendary_models/PPLCNetV2_base_ssld_pretrained.pdparams) |
+

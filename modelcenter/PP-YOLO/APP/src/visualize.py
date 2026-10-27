@@ -47,3 +47,4 @@ def draw_det(image, dt_bboxes, name_set):
         draw.text((box[0], box[1]), text, fill=(255, 255, 255))
     image = np.array(im)
     return image
+# 860b44

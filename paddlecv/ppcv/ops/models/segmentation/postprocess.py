@@ -25,3 +25,4 @@ class SegPostProcess(object):
     def __call__(self, inputs, output_keys):
         outputs = [{output_keys[0]: seg_map} for seg_map in inputs]
         return outputs
+# 541ad9

@@ -93,3 +93,4 @@ with demo:
     mol = gr.HTML()
     btn.click(fn=update, inputs=[fastaName,fastaContent], outputs=mol)
 demo.launch()
+# 36d6b3

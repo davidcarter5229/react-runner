@@ -176,3 +176,4 @@ class VQAReTokenLayoutLMPostProcess(object):
                 pred_relation_new.append(relation_new)
             pred_relations_new.append(pred_relation_new)
         return pred_relations_new
+# 8c8e48

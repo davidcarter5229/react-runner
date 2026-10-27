@@ -15,3 +15,4 @@ from .paddlecv import *
 
 __version__ = paddlecv.VERSION
 # c965d3
+# 78aac0

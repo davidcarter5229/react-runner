@@ -130,3 +130,4 @@ class InformationExtractionOp(SentimentAnalysisOp):
     @classmethod
     def get_output_keys(cls):
         return ["text", "type"]
+# 5bfea4

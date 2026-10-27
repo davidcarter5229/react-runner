@@ -29,3 +29,4 @@ The PP-MSVSR model uses REDS dataset for train and test. REDS consists of 240 tr
 
 ## 3. Reference
 Ref: https://github.com/PaddlePaddle/PaddleGAN/blob/develop/docs/zh_CN/tutorials/video_super_resolution.md
+

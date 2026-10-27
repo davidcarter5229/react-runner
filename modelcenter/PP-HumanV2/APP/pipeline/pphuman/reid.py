@@ -202,3 +202,4 @@ class ReID(object):
             batch_feat.extend(feat.tolist())
 
         return batch_feat
+# 976933

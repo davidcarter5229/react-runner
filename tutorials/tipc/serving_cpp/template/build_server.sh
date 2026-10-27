@@ -67,3 +67,5 @@ make -j32
 
 python -m pip install python/dist/paddle*
 export SERVING_BIN=$PWD/core/general-server/serving
+
+# 9fdfbd

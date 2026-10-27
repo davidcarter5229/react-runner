@@ -36,3 +36,5 @@ MODEL:
         - input.fn
         - input.image
         - seg.seg_map
+
+# 79d54f

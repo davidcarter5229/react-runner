@@ -263,3 +263,4 @@ python tools/predict.py --pretrained=./mobilenet_v3_small_paddle_pretrained.pdpa
 
 与Paddle Lite预测结果一致。输出结果微小差距的原因是 Paddle Lite 所用 ```opencv``` 和 训练所用 ```PIL```库前处理方式有微小差别。
 
+

@@ -217,3 +217,4 @@ class TableMasterLabelDecode(TableLabelDecode):
         x1, y1, x2, y2 = x - w // 2, y - h // 2, x + w // 2, y + h // 2
         bbox = np.array([x1, y1, x2, y2])
         return
+# f659a1

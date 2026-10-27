@@ -167,3 +167,5 @@ echo "################### run test ###################"
 export Count=0
 IFS="|"
 func_serving "${web_service_cmd}"
+
+# bc9b82

@@ -7,3 +7,4 @@ inference_cmd:mobilenet_v3 config.txt demo.jpg
 --batch_size_list:1
 --precision_list:FP32
 
+

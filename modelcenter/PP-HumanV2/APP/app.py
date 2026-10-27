@@ -70,3 +70,4 @@ with gr.Blocks() as demo:
         outputs=[video_in, video_out, video_avtivity_list])
 
 demo.launch()
+# 844008

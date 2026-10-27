@@ -441,3 +441,4 @@ class Trainer(object):
                 os.path.join(save_dir, 'model'),
                 input_spec=pruned_input_spec)
         logger.info("Export model and saved in {}".format(save_dir))
+# 099f32

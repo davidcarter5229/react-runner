@@ -200,3 +200,4 @@ class PadStride(object):
         padding_im = np.zeros((im_c, pad_h, pad_w), dtype=np.float32)
         padding_im[:, :im_h, :im_w] = im
         return padding_im, im_info
+# f5e436

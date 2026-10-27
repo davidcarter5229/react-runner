@@ -117,3 +117,4 @@ def _dump_infer_config(config, path, image_shape, model):
     yaml.dump(infer_cfg, open(path, 'w'))
     logger.info("Export inference config file to {}".format(
         os.path.join(path)))
+# 798e37

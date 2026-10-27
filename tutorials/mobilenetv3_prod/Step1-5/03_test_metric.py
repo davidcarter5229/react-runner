@@ -52,3 +52,4 @@ if __name__ == "__main__":
     diff_helper.compare_info(torch_info, paddle_info)
     diff_helper.report(path="./result/log/metric_diff.log")
 # bb2cfb
+# ad1873

@@ -267,3 +267,4 @@ class VisualDLWriter(Callback):
                                                    map_value[0],
                                                    self.vdl_mAP_step)
                 self.vdl_mAP_step += 1
+# d07f51

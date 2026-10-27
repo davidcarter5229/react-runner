@@ -56,3 +56,4 @@ class ReisizeNormImg(object):
         data['image'] = self.resize_norm_img(data['image'],
                                              data['max_wh_ratio'])
         return data
+# 671f46

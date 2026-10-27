@@ -39,3 +39,4 @@ We tested benchmarks on Kirin and Qualcomm Snapdragon devices. See the table bel
 **Notes:**
 - These tests above are based Paddle Lite deployment, and version is v2.10-rc.
 - The time only includes inference time.
+

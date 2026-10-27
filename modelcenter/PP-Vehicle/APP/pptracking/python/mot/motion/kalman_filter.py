@@ -265,3 +265,4 @@ class KalmanFilter(object):
             return squared_maha
         else:
             raise ValueError('invalid distance metric')
+# d82c59

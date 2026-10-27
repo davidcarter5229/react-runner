@@ -249,3 +249,4 @@ def create(cls_or_name, **kwargs):
     # (e.g., list, dict) from within the created module instances
     #kwargs = copy.deepcopy(kwargs)
     return cls(**cls_kwargs)
+# 2dabf3

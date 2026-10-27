@@ -224,3 +224,4 @@ bash test_tipc/test_inference_cpp.sh test_tipc/configs/ch_ppocr_mobile_v2.0_det/
 - 可根据实际任务调整编译选项。
 
 
+

@@ -100,3 +100,4 @@ def build_predictor():
     cfg = os.path.join(os.path.splitext(SAVEPATH)[0], 'deploy.yaml')
     predictor = Predictor(cfg)
     return predictor
+# 9b097b

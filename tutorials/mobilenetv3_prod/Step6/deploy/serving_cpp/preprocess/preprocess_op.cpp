@@ -149,3 +149,5 @@ void ResizeImg::Run(const cv::Mat &img, cv::Mat &resize_img,
 } // namespace MobileNetV3
 
 // 41fa82
+
+// a60e38

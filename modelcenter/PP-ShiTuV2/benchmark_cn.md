@@ -66,3 +66,4 @@ PP-ShiTuV2特征提取模型使用自建产品数据集作为测试集
 
 ## 3. 相关使用说明
 请参考：https://github.com/PaddlePaddle/PaddleClas/blob/release/2.5/docs/zh_CN/models/PP-ShiTu/README.md
+
